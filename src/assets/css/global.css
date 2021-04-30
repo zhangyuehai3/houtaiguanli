@@ -1,0 +1,29 @@
+html,body,#app{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    min-width: 1366px;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+.el-card{
+    box-shadow: 0px 1px 1px rgba(0, 0,0, 0.5) !important;
+}
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+.el-pagination{
+    margin-top: 15px;
+}
+.el-cascader-pane{
+    height: 200px;
+}
+.el-steps{
+    margin: 15px 0; 
+}
+.el-steps__title{
+    font-size: 13px;
+}
